@@ -1,4 +1,4 @@
-package com.boilerplate.app.Routes;
+package com.boilerplate.app.routes;
 
 public class ClientRoute {
     
