@@ -1,4 +1,5 @@
 # Arquivos de cache do Terraform
+.terraform/providers
 
 HELP.md
 target/
