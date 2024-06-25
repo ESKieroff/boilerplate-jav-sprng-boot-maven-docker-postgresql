@@ -1,6 +1,4 @@
 # Arquivos de cache do Terraform
-terraform.tfstate
-terraform.tfstate.backup
 
 HELP.md
 target/
