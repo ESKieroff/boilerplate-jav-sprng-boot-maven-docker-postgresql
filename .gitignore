@@ -1,5 +1,4 @@
 # Arquivos de cache do Terraform
-.terraform/
 terraform.tfstate
 terraform.tfstate.backup
 
