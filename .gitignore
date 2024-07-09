@@ -34,4 +34,8 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
+node_modules/
 .vscode/
+.husky/
+husky/
+.yarn-integrity
